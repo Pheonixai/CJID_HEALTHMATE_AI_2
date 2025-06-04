@@ -447,4 +447,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Initial screen setup
     showScreen(welcomeScreen); 
+    
 });
