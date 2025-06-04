@@ -311,3 +311,4 @@ document.addEventListener('DOMContentLoaded', function() {
 if (document.getElementById('question') && document.getElementById('options')) {
   loadQuestion();
 }
+
